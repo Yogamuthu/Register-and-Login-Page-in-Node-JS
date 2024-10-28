@@ -4,11 +4,15 @@ Work of Our Project :
 Packages :
 
 •	Node 
+
 •	Express
+
 •	Mongodb
 
 Commands  into Terminal :
 
 •	Node installation  - npm Install node
+
 •	Express installation - npm Install express
+
 •	Mongodb installation - npm Install mongoose
